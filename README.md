@@ -1,4 +1,4 @@
-# Infinit-Money-Glitch
+# Infinite-Money-Glitch
 Simple day trading bot that calculates the best times to buy and sell.
 
 # How to use
